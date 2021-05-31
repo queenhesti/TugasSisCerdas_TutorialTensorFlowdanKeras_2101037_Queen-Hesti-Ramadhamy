@@ -1,0 +1,1 @@
+# TugasSisCerdas_TutorialTensorFlowdanKeras_2101037_Queen-Hesti-Ramadhamy
